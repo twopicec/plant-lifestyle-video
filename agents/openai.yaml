@@ -1,0 +1,4 @@
+interface:
+  display_name: "植物生活短视频"
+  short_description: "把植物素材做成生活化、有趣又实用的家居短视频完整工作流"
+  default_prompt: "使用 $plant-lifestyle-video 根据我现有的植物素材，完成策划、口播、剪辑、声音、封面和发布文案。"
